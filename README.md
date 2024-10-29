@@ -1,67 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
-<h3 align="center">A passionate developer from Egypt</h3>
+<h1 align="center">Hey there! 👋 I'm Ali Ashraf</h1>
+<h3 align="center">Developer | Flutter Enthusiast | AI Tools Advocate</h3>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/OneDarkMann/Job_Finder_App">Job Offering application</a><br>
-  🌱 I’m currently learning <strong>Advanced Flutter and State Management</strong><br>
-  💬 Ask me about <strong>Flutter, AI tools</strong><br>
-  📫 Reach me at <strong>aliashrafanwaar@gmail.com</strong>
+  Based in Egypt, I'm passionate about creating mobile and web applications that make a difference.
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/aliashraf899" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliashraf899" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/aliashrafanwar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aliashrafanwar" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/profile.php?id=61561637802951" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61561637802951" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/astack" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="astack" height="30" width="40" />
-  </a>
+### 🔎 About Me
+- 🛠 **Current Project**: Building a [Job Finder Application](https://github.com/OneDarkMann/Job_Finder_App) to streamline job searching and applications.
+- 🚀 **Skills**: Flutter, Android & iOS Dev, AI tools, and more.
+- 🎯 **Learning**: Advancing my knowledge in **Flutter** and mastering **state management** techniques.
+
+---
+
+### 🤝 Connect with Me
+You can reach out through any of these platforms:
+
+<p align="left">
+  <a href="https://linkedin.com/in/aliashraf899" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kaggle.com/aliashrafanwar" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle"></a>
+  <a href="https://fb.com/profile.php?id=61561637802951" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://codeforces.com/profile/astack" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%235A5A5A.svg?style=for-the-badge&logo=codeforces&logoColor=blue" alt="Codeforces"></a>
 </p>
 
 ---
 
-<h3 align="center">💻 Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <!-- Add additional icons similarly -->
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 </p>
 
 ---
 
-<h3 align="center">📈 GitHub Stats:</h3>
+### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onedarkmann&show_icons=true&locale=en&layout=compact" alt="onedarkmann" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onedarkmann&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onedarkmann&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=onedarkmann&show_icons=true&locale=en" alt="onedarkmann" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onedarkmann&" alt="onedarkmann" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedarkmann&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
