@@ -2,7 +2,7 @@
 <h3 align="center">Developer | Flutter Enthusiast | AI Tools Advocate</h3>
 
 <p align="center">
-  Based in Egypt, I'm passionate about creating mobile and web applications that make a difference.
+  Based in Egypt, I'm passionate about creating mobile and AI applications that make a difference.
 </p>
 
 ---
