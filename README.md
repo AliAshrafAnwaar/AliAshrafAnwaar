@@ -8,7 +8,7 @@
 ---
 
 ### 🔎 About Me
-- 🛠 **Current Project**: Building a [Job Finder Application](https://github.com/OneDarkMann/Job_Finder_App) to streamline job searching and applications.
+- 🛠 **Current Project**: Building a [Job Finder Application](https://github.com/aliashrafanwaar/Job_Finder_App) to streamline job searching and applications.
 - 🚀 **Skills**: Flutter, Android & iOS Dev, AI tools, and more.
 - 🎯 **Learning**: Advancing my knowledge in **Flutter** and mastering **state management** techniques.
 
@@ -45,10 +45,10 @@ You can reach out through any of these platforms:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onedarkmann&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onedarkmann&theme=tokyonight" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliashrafanwaar&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliashrafanwaar&theme=tokyonight" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedarkmann&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliashrafanwaar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
